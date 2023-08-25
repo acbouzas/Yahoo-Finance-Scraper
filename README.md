@@ -3,6 +3,8 @@ This Python project is a web scraper designed to fetch stock data from Yahoo Fin
 
 The project utilizes Beautiful Soup for HTML parsing, Selenium for web automation, and Pandas for data manipulation.
 
+In case Github doesn't display the Jupyter Notebook please enter here: https://nbviewer.org/github/acbouzas/Yahoo-Finance-Scraper/blob/main/Yahoo_Finance_Scraper.ipynb
+
 ![yahoo_finance_screenshot](https://github.com/acbouzas/Yahoo-Finance-Scraper/blob/045f461495141a8997cfbd9128b972153fd14d2d/images/yahoo_finance.png)
 
 ![output_example](https://github.com/acbouzas/Yahoo-Finance-Scraper/blob/045f461495141a8997cfbd9128b972153fd14d2d/images/output.png)
